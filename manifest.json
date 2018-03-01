@@ -1,0 +1,7 @@
+{
+  "runtime": {
+    "majorVersion": "7.0"
+  },
+  "command": "sh ./start.sh",
+  "notes": "PHP Sample Application"
+}
