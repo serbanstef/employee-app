@@ -11,7 +11,7 @@ module.exports = function(grunt) {
                 },
                 expand: true,
                 cwd: './',
-                src: ['Employee.php', 'service.php','employees-rest-api.php', 'manifest.json', 'start.sh', 'timer.sh'],
+                src: ['Employee.php', 'service.php','employees-rest-api.php', 'index.html', 'manifest.json', 'start.sh', 'timer.sh'],
                 dest: './'
             }
         }
